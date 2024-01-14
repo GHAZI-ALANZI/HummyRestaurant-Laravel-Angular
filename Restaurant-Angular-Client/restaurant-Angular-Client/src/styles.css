@@ -16,7 +16,7 @@
     --background-color-of-sections: #090d10;
     --special-text-color: #c39c6e;
     --special-button-color: #deac80;
-    --main-color: #222b3d;
+    --main-color: #172add;
     /* Last Change */
 }
 
@@ -127,7 +127,7 @@ body {
     .navbar-nav {
         /* max-width: 540px; */
         /* background-color: #dce2f0c2 !important; */
-        background-color: #f8f9fade !important;
+        background-color: #031b33de !important;
         padding: 10px;
     }
 

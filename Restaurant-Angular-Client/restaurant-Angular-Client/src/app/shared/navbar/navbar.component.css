@@ -1,7 +1,14 @@
 .mynav {
-  background-color: #090d10;
+  
   color: #eee;
   height:10vh;
+/* From https://css.glass */
+  background: rgba(0, 0, 0, 0.8);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(1.5px);
+  -webkit-backdrop-filter: blur(1.5px);
+  border: 1px solid rgba(13, 0, 221, 0.3);
 }
 .mynav .navbar-brand {
   color: #eee;
@@ -35,8 +42,8 @@
 }
 
 .book-btn {
-  background-color: #ceb086;
-  color: #eee;
+  background-color: #2a19c6be;
+  color: #ffffff;
   border-color: #ceb086;
   border-radius: 0;
 }
